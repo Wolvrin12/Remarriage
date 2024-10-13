@@ -8,3 +8,18 @@
   font-family: "Beetle";
   src: url("../fonts/Marriage.otf") format("opentype");
 }
+
+@font-face {
+  font-family: "Sponkgy";
+  src: url("../fonts/Alexandria\ Script.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Love";
+  src: url("../fonts/Soulmate.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Script";
+  src: url("../fonts/Piglet.ttf") format("truetype");
+}

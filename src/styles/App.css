@@ -1,5 +1,15 @@
 .App {
-  min-height: 200vh;
-  width: 98.8vw;
+  min-height: 260vh;
+  width: 100%;
   background: #f8c794;
+}
+
+.container {
+  color: #803d3b;
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

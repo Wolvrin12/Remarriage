@@ -1,0 +1,12 @@
+.context {
+  height: 100%;
+  display: flex;
+}
+
+p {
+  height: 50%;
+  padding: 70px;
+  color: #803d3b;
+  font-family: "Sponkgy";
+  font-size: x-large;
+}

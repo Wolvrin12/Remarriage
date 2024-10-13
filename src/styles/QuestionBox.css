@@ -1,0 +1,23 @@
+.box {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: "Love";
+  color: #803d3b;
+  margin-bottom: 50px;
+}
+
+.buttons * {
+  margin: 20px;
+  font-family: "Script";
+  font-size: x-large;
+}
