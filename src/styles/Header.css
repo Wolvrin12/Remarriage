@@ -1,0 +1,16 @@
+.Header {
+  top: 0;
+  position: sticky;
+  width: 98.8vw;
+  height: 20%;
+  padding: 10px;
+  background: #d8ae7e;
+  color: #49243e;
+  text-align: center;
+  font-family: "Beetle";
+  font-size: 60px;
+}
+
+.invisible {
+  display: none;
+}
